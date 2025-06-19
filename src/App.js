@@ -130,7 +130,7 @@ function App() {
           </header>
           
           <p className="subheader">
-            Building software has changed so much but the education hasn't. We're building the first platform powered by AI to teach the non-technical person how to build software. Join the waitlist to be the first to experience the future of software education.
+            Building software has changed so much but the education hasn't. We're building the first platform powered by AI to teach the non-technical person how to build software for the modern era. Join the waitlist to be the first to experience the future of software education.
           </p>
           
           <div className="waitlist-section">
